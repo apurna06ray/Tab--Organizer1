@@ -60,5 +60,5 @@ tab--organizer1/
 
 ##  AI Declaration
 
-I built this project myself. I used AI tools like ChatGPT only for guidance and debugging.
+I built this project myself. I used AI tools like ChatGPT only for guidance ,debugging and writing README .
 
